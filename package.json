@@ -1,6 +1,6 @@
 {
   "name": "rn-kelmants-button-expo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "poc kelmants-button component library supported by expo support",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
