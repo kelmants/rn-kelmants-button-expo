@@ -15,7 +15,7 @@ import { ButtonView } from "rn-kelmants-button-expo";
 
 // ...
 
-<ButtonView color="tomato" />
+<ButtonView color="tomato" title="title" />
 ```
 
 ## Contributing
